@@ -6,8 +6,8 @@ Hello, My name is Kenneth Soares, I am a highschool student and my hobby is to t
  Anyways, here is a little list of what I know:
  * markdown (duh)
  * python
- * c/c++
- * Linux shell scripting
+ * rust
+ * bash
  * a very little bit of html,css,php,js
 
 This is all I have to say
