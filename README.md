@@ -3,7 +3,7 @@
 Hello, My name is Kenneth Soares, I am a highschool student and my hobby is to tinker with computers!
  If you look at my repos, you'll quickly understand that I'm not a prodigy but I guess it's not a big deal.
  
-This year I will do at least 4 projects (1/4 done)
+This year I will do at least 4 projects (2/4 done)
  
  Anyways, here is a little list of what I know:
  * markdown (duh)
