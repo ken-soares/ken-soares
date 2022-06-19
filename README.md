@@ -2,7 +2,8 @@
 ---
 Hello, My name is Kenneth Soares, I am a highschool student and coding is my hobby and what I would like to do in the future.
  
-This year, I will do at least 4 projects (I **think** I exceeded 4 projects...)\ 
+This year, I will do at least 4 projects (I **think** I exceeded 4 projects...)
+
 I love Linux, I use a Linux-based OS for everything (Android phone, Manjaro Linux computer, Raspbian mini-server)
 I know a few programming languages:
 - python
