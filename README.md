@@ -4,7 +4,7 @@ Hello, My name is Kenneth Soares, I am a highschool student and coding is my hob
  
 This year, I will do at least 4 projects (I **think** I exceeded 4 projects...)
 
-I love Linux, I use a Linux-based OS for everything (Android phone, Manjaro Linux computer, Raspbian mini-server). I also love **both** vim and emacs, and you can find my config files for them in my .dotfiles repo
+I love Linux, I use a Linux-based OS for everything (Android phone, Manjaro Linux computer, Raspbian mini-server). I also love **both** vim and emacs, and you can find my config files for them in my .dotfiles repo (however you will never find a .vscode folder because I hate this editor with a burning passion)
 
 
 I know a few programming languages:
