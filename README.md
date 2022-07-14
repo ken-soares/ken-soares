@@ -1,4 +1,4 @@
-# `~#whoami`
+# `~#whoami` (haha got it? it's a joke haha...)
 ---
 
 ![Kenneth’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ken-soares&theme=gruvbox&show_icons=true&count_private=true)
