@@ -6,8 +6,8 @@
 
 What do I do:
 * front-end web with vanilla js, html and css
-* algorithms python and C
-* learning Linux and more advanced web technologies
+* algorithms in python and C
+* Linux and web technologies
 
 
 You can also find my dotfiles for my linux based computers in my `.dotfiles` repo.
