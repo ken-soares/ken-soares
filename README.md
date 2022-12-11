@@ -12,7 +12,7 @@ What do I do:
 
 You can also find my dotfiles for my linux based computers in my `.dotfiles` repo.
 
-Thats it, have a good day c:
+That's it, have a good day c:
 
 <!---
 ken-soares/ken-soares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
