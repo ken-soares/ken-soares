@@ -3,6 +3,7 @@
 
 ![Kenneth’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ken-soares&theme=dracula&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken-soares&theme=dracula)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@ken-soares" frameborder="0"></iframe>
 
 What do I do:
 * Linux and back-end web technologies
