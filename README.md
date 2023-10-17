@@ -1,6 +1,6 @@
 # Hi, I'm Kenneth 👋
 
-*(A.k.a Torrent☁️)*  
+(*A.k.a* Torrent☁️)  
 
 First year student at UTBM (TC01)
 <hr>
