@@ -2,7 +2,7 @@
 
 (*A.k.a* Torrent☁️)  
 
-First year student at UTBM (TC01)
+First year student at UTBM (TC02)
 <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-soares&theme=tokyonight"/>
 
