@@ -1,6 +1,6 @@
 # Hi, I'm Kenneth 👋
 
-*a.k.a Torrent* First year student at UTBM (TC03)
+*a.k.a Torrent* Second year student at UTBM (TC03)
 <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-soares&theme=tokyonight"/>
 
