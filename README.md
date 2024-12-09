@@ -2,7 +2,7 @@
 
 *a.k.a Torrent* Second year student at UTBM (TC03)
 <hr>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-soares&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-soares&theme=tokyonight&layout=compact"/>
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
