@@ -1,6 +1,7 @@
 # Hi, I'm Kenneth 👋
 
-*a.k.a Torrent* Second year student at UTBM (TC03)
+*a.k.a Torrent* Second year student at UTBM
+Currently in Erasmus at AGH Kraków 🇵🇱
 <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-soares&theme=tokyonight&layout=compact"/>
 
