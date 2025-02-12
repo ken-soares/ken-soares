@@ -1,12 +1,8 @@
 # Hi, I'm Kenneth 👋
 
 *a.k.a Torrent* Second year student at UTBM
-Currently in Erasmus at AGH Kraków 🇵🇱
+Currently in Erasmus exchange at AGH Kraków 🇵🇱
 
-This semester goals:
-* helping in the ae-dev team
-* publishing a new game on itch
-* learning basics of computer vision
 <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-soares&theme=tokyonight&layout=compact"/>
 
@@ -20,6 +16,10 @@ This semester goals:
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![mySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+This semester goals:
+* helping in the ae-dev team
+* publishing a new game on itch
+* learning basics of computer vision
 <!---
 ken-soares/ken-soares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
