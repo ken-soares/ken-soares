@@ -1,6 +1,7 @@
 # Hi, I'm Kenneth 👋
 
 *a.k.a Torrent* Second year student at UTBM
+
 Currently in Erasmus exchange at AGH Kraków 🇵🇱
 
 <hr>
