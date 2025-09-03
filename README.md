@@ -1,8 +1,6 @@
 # Hi, I'm Kenneth 👋
 
-*a.k.a Torrent* Second year student at UTBM
-
-Currently in Erasmus exchange at AGH Kraków 🇵🇱
+*a.k.a Torrent* Third year student at UTBM
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-soares&theme=tokyonight&layout=compact"/> ![](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)
@@ -16,7 +14,7 @@ Currently in Erasmus exchange at AGH Kraków 🇵🇱
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 This semester goals:
-- helping in the ae-dev team
+- working on the AE website
 - publishing a new game on itch
 - learning basics of computer vision
 - publish articles about Poland
