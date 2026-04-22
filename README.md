@@ -1,19 +1,34 @@
-# Hi, I'm Kenneth 👋
 
-*a.k.a Torrent* Third year student at UTBM
+<img align="center" width="1270" height="540" alt="autumn-forest-2560x1080-12505" src="https://github.com/user-attachments/assets/c5614703-c94f-4d13-9f89-31c489734eb8" />
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=EEEEEE&duration=3000&lines=Hello+there👋;I'm+Kenneth;" />
+</h1>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-soares&theme=tokyonight&layout=compact"/> ![](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)
+<h3 align="center"> Computer science student (3rd year) interested in data, AI and computer vision</h3>
 
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-![c](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![c++](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<div align="center">
+  <span>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+</span>
+<br>
+<br>
+<p>🌱 Learning more about CNNs in pytorch and classification models, ask me about Linux, Python data processing and manipulation...</p>
+</div>
 
-Looking for an internship in data or computer vision
-<!---
-ken-soares/ken-soares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ken-soares&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ken-soares&theme=transparent&count_private=true&border_radius=10&locale=en"/>
+</div>
+
+<hr>
